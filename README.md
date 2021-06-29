@@ -2,7 +2,7 @@
 # MyShop
 With this App the user can placed order based on the types of availability of products  
 
-<img src="https://user-images.githubusercontent.com/65062751/123722700-7a1fb080-d8a6-11eb-8c01-40b85c6443a2.jpeg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/65062751/123722700-7a1fb080-d8a6-11eb-8c01-40b85c6443a2.jpeg" width="300" height="600">
 <!-- ![HomePage](https://user-images.githubusercontent.com/65062751/123722700-7a1fb080-d8a6-11eb-8c01-40b85c6443a2.jpeg) -->
 ![Categories](https://user-images.githubusercontent.com/65062751/123722754-93c0f800-d8a6-11eb-9390-b5a930c4dd2f.jpeg)
 ![itemList](https://user-images.githubusercontent.com/65062751/123722784-a804f500-d8a6-11eb-9cf1-35e1714e19a9.jpeg)
