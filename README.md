@@ -1,6 +1,6 @@
 
 # MyShop
-With this App the user can place order based on the types of availability of products on this application.
+With this App the user can place order based on the types of availability of products on this application :)
 
 This application is not yet completed as expected.
 
